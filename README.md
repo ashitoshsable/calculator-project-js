@@ -8,7 +8,7 @@ The calculator allows users to perform basic arithmetic operations such as addit
 
 ## Preview
 
-<img src="https://github.com/ashitoshsable/calculator-project-js/assets/99812620/a4d3ffe1-07fb-4bb5-bb93-d0dd6569538b" alt="Calculator Preview" align="left" width="300">
+<img src="https://github.com/ashitoshsable/calculator-project-js/assets/99812620/a4d3ffe1-07fb-4bb5-bb93-d0dd6569538b" alt="Calculator Preview" align="left" width="300" style="margin-right: 20px;">
 
 ## Usage
 
@@ -25,7 +25,7 @@ The calculator allows users to perform basic arithmetic operations such as addit
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps:
+To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository: `git clone [https://github.com/your-username/calculator-project.git](https://github.com/ashitoshsable/calculator-project-js.git)`
 2. Open `index.html` in your preferred browser.
