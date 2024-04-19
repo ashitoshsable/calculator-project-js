@@ -8,8 +8,7 @@ The calculator allows users to perform basic arithmetic operations such as addit
 
 ## Preview
 
-![Calculator Preview][Screenshot 2024-04-19 at 1 38 37 PM](https://github.com/ashitoshsable/calculator-project-js/assets/99812620/52470166-c4f6-4ce9-b23c-3114f314376e)
-
+![Screenshot 2024-04-19 at 1 38 37 PM](https://github.com/ashitoshsable/calculator-project-js/assets/99812620/a4d3ffe1-07fb-4bb5-bb93-d0dd6569538b)
 
 ## Usage
 
